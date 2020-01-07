@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "'Fira Code Iscript', Consolas, monospace",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "200", // Reg,
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/gober/Desktop/styles.css"
+    ]
+  
+}
